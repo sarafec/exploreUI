@@ -1,0 +1,64 @@
+body {
+	background-color: #eeeeee;
+	font-family: 'Oxygen', sans-serif;
+
+}
+
+header {
+	text-align: center;
+}
+
+.jumbotron-photo {
+	height: 180px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: url('header.jpg') center;
+	background-size: cover;
+}
+
+.content-divider {
+	margin-top: 180px;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.sub-title {
+	font-size: 20px;
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+
+.app-container {
+	margin: 20px;
+}
+
+.project-entry {
+	margin: 10px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.project-image {
+	border: 2px solid white;
+}
+
+.project-title {
+	font-size: 20px;
+}
+
+.project-technologies {
+	font-size: 16px;
+}
+
+.project-source {
+	color: black;
+	cursor: pointer;
+	font-size: 14px;
+	margin-top: 5px;
+	display: inline-block;
+	font-weight: bold;
+}
